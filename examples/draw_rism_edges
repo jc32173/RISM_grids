@@ -1,0 +1,2710 @@
+# 
+# Molecular graphics exported from VMD 1.9.4a48
+# http://www.ks.uiuc.edu/Research/vmd/
+# 
+# Requires Tachyon version 0.99.0 or newer
+# 
+# Default tachyon rendering command for this scene:
+#   tachyon  -aasamples 12 %s -format TARGA -o %s.tga
+# 
+Begin_Scene
+Resolution 672 848
+Shader_Mode Medium
+  Trans_VMD
+  Fog_VMD
+End_Shader_Mode
+Camera
+  Projection Orthographic
+  Zoom 0.333333
+  Aspectratio 1
+  Antialiasing 12
+  Raydepth 50
+  Center  0 0 -2
+  Viewdir -0 -0 2
+  Updir   0 1 -0
+End_Camera
+Directional_Light Direction 0.1 -0.1 1 Color 1 1 1
+Directional_Light Direction -1 -2 0.5 Color 1 1 1
+
+Background 1 1 1
+Fog Exp2 Start 0 End 10 Density 0.32 Color 1 1 1
+# VMD: Starting axes output.
+FCylinder
+  Base -0.75283 -0.95 -0
+  Apex -0.752706 -0.73827 -0.018071
+  Rad 0.03
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.815157 -0.738446 -0.0205592
+  V1 -0.814443 -0.737406 -0.00837215
+  V2 -0.752685 -0.700906 -0.0212601
+  N0 -0.514 0.853 -0.093
+  N1 -0.508 0.861 0.007
+  N2 -0.515 0.856 -0.043
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.815157 -0.738446 -0.0205592
+  V1 -0.814443 -0.737406 -0.00837215
+  V2 -0.752706 -0.73827 -0.018071
+  N0 0.001 0.996 -0.085
+  N1 0.001 0.996 -0.085
+  N2 0.001 0.996 -0.085
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.814443 -0.737406 -0.00837215
+  V1 -0.811357 -0.736399 0.00344218
+  V2 -0.752685 -0.700906 -0.0212601
+  N0 -0.508 0.861 0.007
+  N1 -0.482 0.870 0.104
+  N2 -0.499 0.865 0.057
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.814443 -0.737406 -0.00837215
+  V1 -0.811357 -0.736399 0.00344218
+  V2 -0.752706 -0.73827 -0.018071
+  N0 0.001 0.996 -0.085
+  N1 0.001 0.996 -0.085
+  N2 0.001 0.996 -0.085
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.811357 -0.736399 0.00344218
+  V1 -0.806017 -0.735465 0.0144298
+  V2 -0.752685 -0.700906 -0.0212601
+  N0 -0.482 0.870 0.104
+  N1 -0.438 0.877 0.195
+  N2 -0.464 0.873 0.151
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.811357 -0.736399 0.00344218
+  V1 -0.806017 -0.735465 0.0144298
+  V2 -0.752706 -0.73827 -0.018071
+  N0 0.001 0.996 -0.085
+  N1 0.001 0.996 -0.085
+  N2 0.001 0.996 -0.085
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.806017 -0.735465 0.0144298
+  V1 -0.798629 -0.734638 0.0241684
+  V2 -0.752685 -0.700906 -0.0212601
+  N0 -0.438 0.877 0.195
+  N1 -0.378 0.884 0.275
+  N2 -0.411 0.880 0.237
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.806017 -0.735465 0.0144298
+  V1 -0.798629 -0.734638 0.0241684
+  V2 -0.752706 -0.73827 -0.018071
+  N0 0.001 0.996 -0.085
+  N1 0.001 0.996 -0.085
+  N2 0.001 0.996 -0.085
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.798629 -0.734638 0.0241684
+  V1 -0.789476 -0.73395 0.0322838
+  V2 -0.752685 -0.700906 -0.0212601
+  N0 -0.378 0.884 0.275
+  N1 -0.302 0.890 0.342
+  N2 -0.343 0.886 0.311
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.798629 -0.734638 0.0241684
+  V1 -0.789476 -0.73395 0.0322838
+  V2 -0.752706 -0.73827 -0.018071
+  N0 0.001 0.996 -0.085
+  N1 0.001 0.996 -0.085
+  N2 0.001 0.996 -0.085
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.789476 -0.73395 0.0322838
+  V1 -0.778909 -0.733429 0.038464
+  V2 -0.752685 -0.700906 -0.0212601
+  N0 -0.302 0.890 0.342
+  N1 -0.215 0.894 0.392
+  N2 -0.261 0.891 0.371
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.789476 -0.73395 0.0322838
+  V1 -0.778909 -0.733429 0.038464
+  V2 -0.752706 -0.73827 -0.018071
+  N0 0.001 0.996 -0.085
+  N1 0.001 0.996 -0.085
+  N2 0.001 0.996 -0.085
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.778909 -0.733429 0.038464
+  V1 -0.767336 -0.733094 0.0424717
+  V2 -0.752685 -0.700906 -0.0212601
+  N0 -0.215 0.894 0.392
+  N1 -0.120 0.897 0.425
+  N2 -0.169 0.895 0.413
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.778909 -0.733429 0.038464
+  V1 -0.767336 -0.733094 0.0424717
+  V2 -0.752706 -0.73827 -0.018071
+  N0 0.001 0.996 -0.085
+  N1 0.001 0.996 -0.085
+  N2 0.001 0.996 -0.085
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.767336 -0.733094 0.0424717
+  V1 -0.755201 -0.732957 0.0441527
+  V2 -0.752685 -0.700906 -0.0212601
+  N0 -0.120 0.897 0.425
+  N1 -0.020 0.898 0.439
+  N2 -0.071 0.897 0.437
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.767336 -0.733094 0.0424717
+  V1 -0.755201 -0.732957 0.0441527
+  V2 -0.752706 -0.73827 -0.018071
+  N0 0.001 0.996 -0.085
+  N1 0.001 0.996 -0.085
+  N2 0.001 0.996 -0.085
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.755201 -0.732957 0.0441527
+  V1 -0.742969 -0.733025 0.0434425
+  V2 -0.752685 -0.700906 -0.0212601
+  N0 -0.020 0.898 0.439
+  N1 0.081 0.898 0.433
+  N2 0.031 0.897 0.441
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.755201 -0.732957 0.0441527
+  V1 -0.742969 -0.733025 0.0434425
+  V2 -0.752706 -0.73827 -0.018071
+  N0 0.001 0.996 -0.085
+  N1 0.001 0.996 -0.085
+  N2 0.001 0.996 -0.085
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.742969 -0.733025 0.0434425
+  V1 -0.731112 -0.733295 0.0403684
+  V2 -0.752685 -0.700906 -0.0212601
+  N0 0.081 0.898 0.433
+  N1 0.178 0.895 0.408
+  N2 0.131 0.896 0.425
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.742969 -0.733025 0.0434425
+  V1 -0.731112 -0.733295 0.0403684
+  V2 -0.752706 -0.73827 -0.018071
+  N0 0.001 0.996 -0.085
+  N1 0.001 0.996 -0.085
+  N2 0.001 0.996 -0.085
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.731112 -0.733295 0.0403684
+  V1 -0.720085 -0.733755 0.0350485
+  V2 -0.752685 -0.700906 -0.0212601
+  N0 0.178 0.895 0.408
+  N1 0.269 0.892 0.364
+  N2 0.226 0.893 0.390
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.731112 -0.733295 0.0403684
+  V1 -0.720085 -0.733755 0.0350485
+  V2 -0.752706 -0.73827 -0.018071
+  N0 0.001 0.996 -0.085
+  N1 0.001 0.996 -0.085
+  N2 0.001 0.996 -0.085
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.720085 -0.733755 0.0350485
+  V1 -0.710311 -0.734389 0.0276872
+  V2 -0.752685 -0.700906 -0.0212601
+  N0 0.269 0.892 0.364
+  N1 0.349 0.886 0.304
+  N2 0.312 0.888 0.338
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.720085 -0.733755 0.0350485
+  V1 -0.710311 -0.734389 0.0276872
+  V2 -0.752706 -0.73827 -0.018071
+  N0 0.001 0.996 -0.085
+  N1 0.001 0.996 -0.085
+  N2 0.001 0.996 -0.085
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.710311 -0.734389 0.0276872
+  V1 -0.702167 -0.735172 0.0185674
+  V2 -0.752685 -0.700906 -0.0212601
+  N0 0.349 0.886 0.304
+  N1 0.417 0.880 0.229
+  N2 0.386 0.882 0.269
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.710311 -0.734389 0.0276872
+  V1 -0.702167 -0.735172 0.0185674
+  V2 -0.752706 -0.73827 -0.018071
+  N0 0.001 0.996 -0.085
+  N1 0.001 0.996 -0.085
+  N2 0.001 0.996 -0.085
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.702167 -0.735172 0.0185674
+  V1 -0.695964 -0.736074 0.00803971
+  V2 -0.752685 -0.700906 -0.0212601
+  N0 0.417 0.880 0.229
+  N1 0.468 0.872 0.142
+  N2 0.446 0.875 0.188
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.702167 -0.735172 0.0185674
+  V1 -0.695964 -0.736074 0.00803971
+  V2 -0.752706 -0.73827 -0.018071
+  N0 0.001 0.996 -0.085
+  N1 0.001 0.996 -0.085
+  N2 0.001 0.996 -0.085
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.695964 -0.736074 0.00803971
+  V1 -0.691943 -0.737061 -0.00349146
+  V2 -0.752685 -0.700906 -0.0212601
+  N0 0.468 0.872 0.142
+  N1 0.501 0.864 0.047
+  N2 0.488 0.867 0.096
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.695964 -0.736074 0.00803971
+  V1 -0.691943 -0.737061 -0.00349146
+  V2 -0.752706 -0.73827 -0.018071
+  N0 0.001 0.996 -0.085
+  N1 0.001 0.996 -0.085
+  N2 0.001 0.996 -0.085
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.691943 -0.737061 -0.00349146
+  V1 -0.690256 -0.738094 -0.0155829
+  V2 -0.752685 -0.700906 -0.0212601
+  N0 0.501 0.864 0.047
+  N1 0.515 0.856 -0.052
+  N2 0.512 0.859 -0.002
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.691943 -0.737061 -0.00349146
+  V1 -0.690256 -0.738094 -0.0155829
+  V2 -0.752706 -0.73827 -0.018071
+  N0 0.001 0.996 -0.085
+  N1 0.001 0.996 -0.085
+  N2 0.001 0.996 -0.085
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.690256 -0.738094 -0.0155829
+  V1 -0.69097 -0.739134 -0.02777
+  V2 -0.752685 -0.700906 -0.0212601
+  N0 0.515 0.856 -0.052
+  N1 0.509 0.847 -0.153
+  N2 0.516 0.850 -0.103
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.690256 -0.738094 -0.0155829
+  V1 -0.69097 -0.739134 -0.02777
+  V2 -0.752706 -0.73827 -0.018071
+  N0 0.001 0.996 -0.085
+  N1 0.001 0.996 -0.085
+  N2 0.001 0.996 -0.085
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.69097 -0.739134 -0.02777
+  V1 -0.694056 -0.74014 -0.0395843
+  V2 -0.752685 -0.700906 -0.0212601
+  N0 0.509 0.847 -0.153
+  N1 0.483 0.839 -0.250
+  N2 0.500 0.842 -0.202
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.69097 -0.739134 -0.02777
+  V1 -0.694056 -0.74014 -0.0395843
+  V2 -0.752706 -0.73827 -0.018071
+  N0 0.001 0.996 -0.085
+  N1 0.001 0.996 -0.085
+  N2 0.001 0.996 -0.085
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.694056 -0.74014 -0.0395843
+  V1 -0.699395 -0.741075 -0.0505719
+  V2 -0.752685 -0.700906 -0.0212601
+  N0 0.483 0.839 -0.250
+  N1 0.439 0.831 -0.340
+  N2 0.465 0.834 -0.297
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.694056 -0.74014 -0.0395843
+  V1 -0.699395 -0.741075 -0.0505719
+  V2 -0.752706 -0.73827 -0.018071
+  N0 0.001 0.996 -0.085
+  N1 0.001 0.996 -0.085
+  N2 0.001 0.996 -0.085
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.699395 -0.741075 -0.0505719
+  V1 -0.706784 -0.741902 -0.0603105
+  V2 -0.752685 -0.700906 -0.0212601
+  N0 0.439 0.831 -0.340
+  N1 0.379 0.824 -0.421
+  N2 0.412 0.827 -0.383
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.699395 -0.741075 -0.0505719
+  V1 -0.706784 -0.741902 -0.0603105
+  V2 -0.752706 -0.73827 -0.018071
+  N0 0.001 0.996 -0.085
+  N1 0.001 0.996 -0.085
+  N2 0.001 0.996 -0.085
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.706784 -0.741902 -0.0603105
+  V1 -0.715937 -0.742589 -0.0684259
+  V2 -0.752685 -0.700906 -0.0212601
+  N0 0.379 0.824 -0.421
+  N1 0.303 0.819 -0.487
+  N2 0.344 0.820 -0.457
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.706784 -0.741902 -0.0603105
+  V1 -0.715937 -0.742589 -0.0684259
+  V2 -0.752706 -0.73827 -0.018071
+  N0 0.001 0.996 -0.085
+  N1 0.001 0.996 -0.085
+  N2 0.001 0.996 -0.085
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.715937 -0.742589 -0.0684259
+  V1 -0.726504 -0.74311 -0.0746061
+  V2 -0.752685 -0.700906 -0.0212601
+  N0 0.303 0.819 -0.487
+  N1 0.216 0.815 -0.538
+  N2 0.262 0.815 -0.516
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.715937 -0.742589 -0.0684259
+  V1 -0.726504 -0.74311 -0.0746061
+  V2 -0.752706 -0.73827 -0.018071
+  N0 0.001 0.996 -0.085
+  N1 0.001 0.996 -0.085
+  N2 0.001 0.996 -0.085
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.726504 -0.74311 -0.0746061
+  V1 -0.738077 -0.743446 -0.0786138
+  V2 -0.752685 -0.700906 -0.0212601
+  N0 0.216 0.815 -0.538
+  N1 0.121 0.812 -0.571
+  N2 0.170 0.812 -0.559
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.726504 -0.74311 -0.0746061
+  V1 -0.738077 -0.743446 -0.0786138
+  V2 -0.752706 -0.73827 -0.018071
+  N0 0.001 0.996 -0.085
+  N1 0.001 0.996 -0.085
+  N2 0.001 0.996 -0.085
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.738077 -0.743446 -0.0786138
+  V1 -0.750212 -0.743582 -0.0802948
+  V2 -0.752685 -0.700906 -0.0212601
+  N0 0.121 0.812 -0.571
+  N1 0.021 0.811 -0.585
+  N2 0.072 0.810 -0.582
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.738077 -0.743446 -0.0786138
+  V1 -0.750212 -0.743582 -0.0802948
+  V2 -0.752706 -0.73827 -0.018071
+  N0 0.001 0.996 -0.085
+  N1 0.001 0.996 -0.085
+  N2 0.001 0.996 -0.085
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.750212 -0.743582 -0.0802948
+  V1 -0.762444 -0.743514 -0.0795846
+  V2 -0.752685 -0.700906 -0.0212601
+  N0 0.021 0.811 -0.585
+  N1 -0.080 0.811 -0.579
+  N2 -0.030 0.809 -0.586
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.750212 -0.743582 -0.0802948
+  V1 -0.762444 -0.743514 -0.0795846
+  V2 -0.752706 -0.73827 -0.018071
+  N0 0.001 0.996 -0.085
+  N1 0.001 0.996 -0.085
+  N2 0.001 0.996 -0.085
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.762444 -0.743514 -0.0795846
+  V1 -0.774301 -0.743245 -0.0765105
+  V2 -0.752685 -0.700906 -0.0212601
+  N0 -0.080 0.811 -0.579
+  N1 -0.177 0.813 -0.554
+  N2 -0.130 0.811 -0.571
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.762444 -0.743514 -0.0795846
+  V1 -0.774301 -0.743245 -0.0765105
+  V2 -0.752706 -0.73827 -0.018071
+  N0 0.001 0.996 -0.085
+  N1 0.001 0.996 -0.085
+  N2 0.001 0.996 -0.085
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.774301 -0.743245 -0.0765105
+  V1 -0.785328 -0.742784 -0.0711905
+  V2 -0.752685 -0.700906 -0.0212601
+  N0 -0.177 0.813 -0.554
+  N1 -0.268 0.817 -0.510
+  N2 -0.225 0.814 -0.536
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.774301 -0.743245 -0.0765105
+  V1 -0.785328 -0.742784 -0.0711905
+  V2 -0.752706 -0.73827 -0.018071
+  N0 0.001 0.996 -0.085
+  N1 0.001 0.996 -0.085
+  N2 0.001 0.996 -0.085
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.785328 -0.742784 -0.0711905
+  V1 -0.795102 -0.74215 -0.0638292
+  V2 -0.752685 -0.700906 -0.0212601
+  N0 -0.268 0.817 -0.510
+  N1 -0.348 0.822 -0.450
+  N2 -0.311 0.818 -0.483
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.785328 -0.742784 -0.0711905
+  V1 -0.795102 -0.74215 -0.0638292
+  V2 -0.752706 -0.73827 -0.018071
+  N0 0.001 0.996 -0.085
+  N1 0.001 0.996 -0.085
+  N2 0.001 0.996 -0.085
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.795102 -0.74215 -0.0638292
+  V1 -0.803246 -0.741367 -0.0547095
+  V2 -0.752685 -0.700906 -0.0212601
+  N0 -0.348 0.822 -0.450
+  N1 -0.416 0.829 -0.375
+  N2 -0.385 0.824 -0.415
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.795102 -0.74215 -0.0638292
+  V1 -0.803246 -0.741367 -0.0547095
+  V2 -0.752706 -0.73827 -0.018071
+  N0 0.001 0.996 -0.085
+  N1 0.001 0.996 -0.085
+  N2 0.001 0.996 -0.085
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.803246 -0.741367 -0.0547095
+  V1 -0.809448 -0.740465 -0.0441817
+  V2 -0.752685 -0.700906 -0.0212601
+  N0 -0.416 0.829 -0.375
+  N1 -0.467 0.836 -0.288
+  N2 -0.445 0.831 -0.333
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.803246 -0.741367 -0.0547095
+  V1 -0.809448 -0.740465 -0.0441817
+  V2 -0.752706 -0.73827 -0.018071
+  N0 0.001 0.996 -0.085
+  N1 0.001 0.996 -0.085
+  N2 0.001 0.996 -0.085
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.809448 -0.740465 -0.0441817
+  V1 -0.81347 -0.739478 -0.0326506
+  V2 -0.752685 -0.700906 -0.0212601
+  N0 -0.467 0.836 -0.288
+  N1 -0.500 0.844 -0.193
+  N2 -0.487 0.839 -0.242
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.809448 -0.740465 -0.0441817
+  V1 -0.81347 -0.739478 -0.0326506
+  V2 -0.752706 -0.73827 -0.018071
+  N0 0.001 0.996 -0.085
+  N1 0.001 0.996 -0.085
+  N2 0.001 0.996 -0.085
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.81347 -0.739478 -0.0326506
+  V1 -0.815157 -0.738446 -0.0205591
+  V2 -0.752685 -0.700906 -0.0212601
+  N0 -0.500 0.844 -0.193
+  N1 -0.514 0.853 -0.093
+  N2 -0.511 0.848 -0.144
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+STri
+  V0 -0.81347 -0.739478 -0.0326506
+  V1 -0.815157 -0.738446 -0.0205591
+  V2 -0.752706 -0.73827 -0.018071
+  N0 0.001 0.996 -0.085
+  N1 0.001 0.996 -0.085
+  N2 0.001 0.996 -0.085
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+FCylinder
+  Base -0.75283 -0.95 -0
+  Apex -0.863744 -0.96535 -0.180606
+  Rad 0.03
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.908091 -0.997615 -0.15063
+  V1 -0.913011 -0.986589 -0.148546
+  V2 -0.883317 -0.968059 -0.212478
+  N0 -0.813 -0.328 -0.482
+  N1 -0.853 -0.237 -0.465
+  N2 -0.836 -0.284 -0.470
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.908091 -0.997615 -0.15063
+  V1 -0.913011 -0.986589 -0.148546
+  V2 -0.863744 -0.96535 -0.180606
+  N0 -0.522 -0.072 -0.850
+  N1 -0.522 -0.072 -0.850
+  N2 -0.522 -0.072 -0.850
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.913011 -0.986589 -0.148546
+  V1 -0.916038 -0.974748 -0.147693
+  V2 -0.883317 -0.968059 -0.212478
+  N0 -0.853 -0.237 -0.465
+  N1 -0.878 -0.139 -0.458
+  N2 -0.869 -0.189 -0.458
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.913011 -0.986589 -0.148546
+  V1 -0.916038 -0.974748 -0.147693
+  V2 -0.863744 -0.96535 -0.180606
+  N0 -0.522 -0.072 -0.850
+  N1 -0.522 -0.072 -0.850
+  N2 -0.522 -0.072 -0.850
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.916038 -0.974748 -0.147693
+  V1 -0.917055 -0.962545 -0.148106
+  V2 -0.883317 -0.968059 -0.212478
+  N0 -0.878 -0.139 -0.458
+  N1 -0.886 -0.039 -0.461
+  N2 -0.885 -0.089 -0.456
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.916038 -0.974748 -0.147693
+  V1 -0.917055 -0.962545 -0.148106
+  V2 -0.863744 -0.96535 -0.180606
+  N0 -0.522 -0.072 -0.850
+  N1 -0.522 -0.072 -0.850
+  N2 -0.522 -0.072 -0.850
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.917055 -0.962545 -0.148106
+  V1 -0.916024 -0.95045 -0.149767
+  V2 -0.883317 -0.968059 -0.212478
+  N0 -0.886 -0.039 -0.461
+  N1 -0.878 0.061 -0.475
+  N2 -0.885 0.012 -0.465
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.917055 -0.962545 -0.148106
+  V1 -0.916024 -0.95045 -0.149767
+  V2 -0.863744 -0.96535 -0.180606
+  N0 -0.522 -0.072 -0.850
+  N1 -0.522 -0.072 -0.850
+  N2 -0.522 -0.072 -0.850
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.916024 -0.95045 -0.149767
+  V1 -0.912983 -0.938927 -0.152613
+  V2 -0.883317 -0.968059 -0.212478
+  N0 -0.878 0.061 -0.475
+  N1 -0.853 0.156 -0.498
+  N2 -0.868 0.110 -0.484
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.916024 -0.95045 -0.149767
+  V1 -0.912983 -0.938927 -0.152613
+  V2 -0.863744 -0.96535 -0.180606
+  N0 -0.522 -0.072 -0.850
+  N1 -0.522 -0.072 -0.850
+  N2 -0.522 -0.072 -0.850
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.912983 -0.938927 -0.152613
+  V1 -0.90805 -0.92842 -0.156536
+  V2 -0.883317 -0.968059 -0.212478
+  N0 -0.853 0.156 -0.498
+  N1 -0.812 0.242 -0.531
+  N2 -0.835 0.201 -0.512
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.912983 -0.938927 -0.152613
+  V1 -0.90805 -0.92842 -0.156536
+  V2 -0.863744 -0.96535 -0.180606
+  N0 -0.522 -0.072 -0.850
+  N1 -0.522 -0.072 -0.850
+  N2 -0.522 -0.072 -0.850
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.90805 -0.92842 -0.156536
+  V1 -0.901415 -0.919332 -0.161383
+  V2 -0.883317 -0.968059 -0.212478
+  N0 -0.812 0.242 -0.531
+  N1 -0.758 0.317 -0.571
+  N2 -0.787 0.282 -0.548
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.90805 -0.92842 -0.156536
+  V1 -0.901415 -0.919332 -0.161383
+  V2 -0.863744 -0.96535 -0.180606
+  N0 -0.522 -0.072 -0.850
+  N1 -0.522 -0.072 -0.850
+  N2 -0.522 -0.072 -0.850
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.901415 -0.919332 -0.161383
+  V1 -0.893332 -0.912013 -0.166969
+  V2 -0.883317 -0.968059 -0.212478
+  N0 -0.758 0.317 -0.571
+  N1 -0.691 0.377 -0.617
+  N2 -0.726 0.351 -0.591
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.901415 -0.919332 -0.161383
+  V1 -0.893332 -0.912013 -0.166969
+  V2 -0.863744 -0.96535 -0.180606
+  N0 -0.522 -0.072 -0.850
+  N1 -0.522 -0.072 -0.850
+  N2 -0.522 -0.072 -0.850
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.893332 -0.912013 -0.166969
+  V1 -0.884112 -0.906743 -0.173079
+  V2 -0.883317 -0.968059 -0.212478
+  N0 -0.691 0.377 -0.617
+  N1 -0.615 0.421 -0.667
+  N2 -0.654 0.403 -0.640
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.893332 -0.912013 -0.166969
+  V1 -0.884112 -0.906743 -0.173079
+  V2 -0.863744 -0.96535 -0.180606
+  N0 -0.522 -0.072 -0.850
+  N1 -0.522 -0.072 -0.850
+  N2 -0.522 -0.072 -0.850
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.884112 -0.906743 -0.173079
+  V1 -0.874109 -0.903726 -0.179479
+  V2 -0.883317 -0.968059 -0.212478
+  N0 -0.615 0.421 -0.667
+  N1 -0.533 0.445 -0.720
+  N2 -0.575 0.437 -0.692
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.884112 -0.906743 -0.173079
+  V1 -0.874109 -0.903726 -0.179479
+  V2 -0.863744 -0.96535 -0.180606
+  N0 -0.522 -0.072 -0.850
+  N1 -0.522 -0.072 -0.850
+  N2 -0.522 -0.072 -0.850
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.874109 -0.903726 -0.179479
+  V1 -0.863708 -0.903076 -0.185921
+  V2 -0.883317 -0.968059 -0.212478
+  N0 -0.533 0.445 -0.720
+  N1 -0.447 0.451 -0.773
+  N2 -0.490 0.452 -0.745
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.874109 -0.903726 -0.179479
+  V1 -0.863708 -0.903076 -0.185921
+  V2 -0.863744 -0.96535 -0.180606
+  N0 -0.522 -0.072 -0.850
+  N1 -0.522 -0.072 -0.850
+  N2 -0.522 -0.072 -0.850
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.863708 -0.903076 -0.185921
+  V1 -0.853308 -0.90482 -0.19216
+  V2 -0.883317 -0.968059 -0.212478
+  N0 -0.447 0.451 -0.773
+  N1 -0.362 0.436 -0.824
+  N2 -0.404 0.448 -0.798
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.863708 -0.903076 -0.185921
+  V1 -0.853308 -0.90482 -0.19216
+  V2 -0.863744 -0.96535 -0.180606
+  N0 -0.522 -0.072 -0.850
+  N1 -0.522 -0.072 -0.850
+  N2 -0.522 -0.072 -0.850
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.853308 -0.90482 -0.19216
+  V1 -0.843309 -0.90889 -0.197954
+  V2 -0.883317 -0.968059 -0.212478
+  N0 -0.362 0.436 -0.824
+  N1 -0.279 0.403 -0.872
+  N2 -0.319 0.424 -0.848
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.853308 -0.90482 -0.19216
+  V1 -0.843309 -0.90889 -0.197954
+  V2 -0.863744 -0.96535 -0.180606
+  N0 -0.522 -0.072 -0.850
+  N1 -0.522 -0.072 -0.850
+  N2 -0.522 -0.072 -0.850
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.843309 -0.90889 -0.197954
+  V1 -0.834096 -0.91513 -0.203082
+  V2 -0.883317 -0.968059 -0.212478
+  N0 -0.279 0.403 -0.872
+  N1 -0.204 0.351 -0.914
+  N2 -0.239 0.381 -0.893
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.843309 -0.90889 -0.197954
+  V1 -0.834096 -0.91513 -0.203082
+  V2 -0.863744 -0.96535 -0.180606
+  N0 -0.522 -0.072 -0.850
+  N1 -0.522 -0.072 -0.850
+  N2 -0.522 -0.072 -0.850
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.834096 -0.91513 -0.203082
+  V1 -0.826022 -0.923299 -0.207346
+  V2 -0.883317 -0.968059 -0.212478
+  N0 -0.204 0.351 -0.914
+  N1 -0.137 0.284 -0.949
+  N2 -0.167 0.321 -0.932
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.834096 -0.91513 -0.203082
+  V1 -0.826022 -0.923299 -0.207346
+  V2 -0.863744 -0.96535 -0.180606
+  N0 -0.522 -0.072 -0.850
+  N1 -0.522 -0.072 -0.850
+  N2 -0.522 -0.072 -0.850
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.826022 -0.923299 -0.207346
+  V1 -0.819397 -0.933085 -0.210583
+  V2 -0.883317 -0.968059 -0.212478
+  N0 -0.137 0.284 -0.949
+  N1 -0.083 0.204 -0.976
+  N2 -0.106 0.247 -0.963
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.826022 -0.923299 -0.207346
+  V1 -0.819397 -0.933085 -0.210583
+  V2 -0.863744 -0.96535 -0.180606
+  N0 -0.522 -0.072 -0.850
+  N1 -0.522 -0.072 -0.850
+  N2 -0.522 -0.072 -0.850
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.819397 -0.933085 -0.210583
+  V1 -0.814477 -0.94411 -0.212667
+  V2 -0.883317 -0.968059 -0.212478
+  N0 -0.083 0.204 -0.976
+  N1 -0.042 0.113 -0.993
+  N2 -0.058 0.160 -0.985
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.819397 -0.933085 -0.210583
+  V1 -0.814477 -0.94411 -0.212667
+  V2 -0.863744 -0.96535 -0.180606
+  N0 -0.522 -0.072 -0.850
+  N1 -0.522 -0.072 -0.850
+  N2 -0.522 -0.072 -0.850
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.814477 -0.94411 -0.212667
+  V1 -0.81145 -0.955952 -0.21352
+  V2 -0.883317 -0.968059 -0.212478
+  N0 -0.042 0.113 -0.993
+  N1 -0.017 0.015 -1.000
+  N2 -0.025 0.065 -0.998
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.814477 -0.94411 -0.212667
+  V1 -0.81145 -0.955952 -0.21352
+  V2 -0.863744 -0.96535 -0.180606
+  N0 -0.522 -0.072 -0.850
+  N1 -0.522 -0.072 -0.850
+  N2 -0.522 -0.072 -0.850
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.81145 -0.955952 -0.21352
+  V1 -0.810433 -0.968155 -0.213107
+  V2 -0.883317 -0.968059 -0.212478
+  N0 -0.017 0.015 -1.000
+  N1 -0.009 -0.085 -0.996
+  N2 -0.009 -0.034 -0.999
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.81145 -0.955952 -0.21352
+  V1 -0.810433 -0.968155 -0.213107
+  V2 -0.863744 -0.96535 -0.180606
+  N0 -0.522 -0.072 -0.850
+  N1 -0.522 -0.072 -0.850
+  N2 -0.522 -0.072 -0.850
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.810433 -0.968155 -0.213107
+  V1 -0.811464 -0.98025 -0.211446
+  V2 -0.883317 -0.968059 -0.212478
+  N0 -0.009 -0.085 -0.996
+  N1 -0.017 -0.185 -0.983
+  N2 -0.009 -0.135 -0.991
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.810433 -0.968155 -0.213107
+  V1 -0.811464 -0.98025 -0.211446
+  V2 -0.863744 -0.96535 -0.180606
+  N0 -0.522 -0.072 -0.850
+  N1 -0.522 -0.072 -0.850
+  N2 -0.522 -0.072 -0.850
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.811464 -0.98025 -0.211446
+  V1 -0.814505 -0.991772 -0.208599
+  V2 -0.883317 -0.968059 -0.212478
+  N0 -0.017 -0.185 -0.983
+  N1 -0.042 -0.279 -0.959
+  N2 -0.026 -0.233 -0.972
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.811464 -0.98025 -0.211446
+  V1 -0.814505 -0.991772 -0.208599
+  V2 -0.863744 -0.96535 -0.180606
+  N0 -0.522 -0.072 -0.850
+  N1 -0.522 -0.072 -0.850
+  N2 -0.522 -0.072 -0.850
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.814505 -0.991772 -0.208599
+  V1 -0.819438 -1.00228 -0.204677
+  V2 -0.883317 -0.968059 -0.212478
+  N0 -0.042 -0.279 -0.959
+  N1 -0.083 -0.366 -0.927
+  N2 -0.059 -0.325 -0.944
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.814505 -0.991772 -0.208599
+  V1 -0.819438 -1.00228 -0.204677
+  V2 -0.863744 -0.96535 -0.180606
+  N0 -0.522 -0.072 -0.850
+  N1 -0.522 -0.072 -0.850
+  N2 -0.522 -0.072 -0.850
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.819438 -1.00228 -0.204677
+  V1 -0.826073 -1.01137 -0.19983
+  V2 -0.883317 -0.968059 -0.212478
+  N0 -0.083 -0.366 -0.927
+  N1 -0.137 -0.441 -0.887
+  N2 -0.107 -0.406 -0.908
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.819438 -1.00228 -0.204677
+  V1 -0.826073 -1.01137 -0.19983
+  V2 -0.863744 -0.96535 -0.180606
+  N0 -0.522 -0.072 -0.850
+  N1 -0.522 -0.072 -0.850
+  N2 -0.522 -0.072 -0.850
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.826073 -1.01137 -0.19983
+  V1 -0.834156 -1.01869 -0.194244
+  V2 -0.883317 -0.968059 -0.212478
+  N0 -0.137 -0.441 -0.887
+  N1 -0.204 -0.501 -0.841
+  N2 -0.168 -0.474 -0.864
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.826073 -1.01137 -0.19983
+  V1 -0.834156 -1.01869 -0.194244
+  V2 -0.863744 -0.96535 -0.180606
+  N0 -0.522 -0.072 -0.850
+  N1 -0.522 -0.072 -0.850
+  N2 -0.522 -0.072 -0.850
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.834156 -1.01869 -0.194244
+  V1 -0.843376 -1.02396 -0.188133
+  V2 -0.883317 -0.968059 -0.212478
+  N0 -0.204 -0.501 -0.841
+  N1 -0.280 -0.544 -0.791
+  N2 -0.240 -0.526 -0.816
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.834156 -1.01869 -0.194244
+  V1 -0.843376 -1.02396 -0.188133
+  V2 -0.863744 -0.96535 -0.180606
+  N0 -0.522 -0.072 -0.850
+  N1 -0.522 -0.072 -0.850
+  N2 -0.522 -0.072 -0.850
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.843376 -1.02396 -0.188133
+  V1 -0.853379 -1.02697 -0.181734
+  V2 -0.883317 -0.968059 -0.212478
+  N0 -0.280 -0.544 -0.791
+  N1 -0.362 -0.569 -0.738
+  N2 -0.319 -0.561 -0.764
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.843376 -1.02396 -0.188133
+  V1 -0.853379 -1.02697 -0.181734
+  V2 -0.863744 -0.96535 -0.180606
+  N0 -0.522 -0.072 -0.850
+  N1 -0.522 -0.072 -0.850
+  N2 -0.522 -0.072 -0.850
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.853379 -1.02697 -0.181734
+  V1 -0.86378 -1.02762 -0.175291
+  V2 -0.883317 -0.968059 -0.212478
+  N0 -0.362 -0.569 -0.738
+  N1 -0.448 -0.575 -0.685
+  N2 -0.404 -0.576 -0.710
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.853379 -1.02697 -0.181734
+  V1 -0.86378 -1.02762 -0.175291
+  V2 -0.863744 -0.96535 -0.180606
+  N0 -0.522 -0.072 -0.850
+  N1 -0.522 -0.072 -0.850
+  N2 -0.522 -0.072 -0.850
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.86378 -1.02762 -0.175291
+  V1 -0.87418 -1.02588 -0.169053
+  V2 -0.883317 -0.968059 -0.212478
+  N0 -0.448 -0.575 -0.685
+  N1 -0.533 -0.560 -0.634
+  N2 -0.490 -0.572 -0.658
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.86378 -1.02762 -0.175291
+  V1 -0.87418 -1.02588 -0.169053
+  V2 -0.863744 -0.96535 -0.180606
+  N0 -0.522 -0.072 -0.850
+  N1 -0.522 -0.072 -0.850
+  N2 -0.522 -0.072 -0.850
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.87418 -1.02588 -0.169053
+  V1 -0.884179 -1.02181 -0.163258
+  V2 -0.883317 -0.968059 -0.212478
+  N0 -0.533 -0.560 -0.634
+  N1 -0.616 -0.527 -0.586
+  N2 -0.575 -0.547 -0.608
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.87418 -1.02588 -0.169053
+  V1 -0.884179 -1.02181 -0.163258
+  V2 -0.863744 -0.96535 -0.180606
+  N0 -0.522 -0.072 -0.850
+  N1 -0.522 -0.072 -0.850
+  N2 -0.522 -0.072 -0.850
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.884179 -1.02181 -0.163258
+  V1 -0.893392 -1.01557 -0.158131
+  V2 -0.883317 -0.968059 -0.212478
+  N0 -0.616 -0.527 -0.586
+  N1 -0.692 -0.475 -0.544
+  N2 -0.655 -0.505 -0.563
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.884179 -1.02181 -0.163258
+  V1 -0.893392 -1.01557 -0.158131
+  V2 -0.863744 -0.96535 -0.180606
+  N0 -0.522 -0.072 -0.850
+  N1 -0.522 -0.072 -0.850
+  N2 -0.522 -0.072 -0.850
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.893392 -1.01557 -0.158131
+  V1 -0.901466 -1.0074 -0.153866
+  V2 -0.883317 -0.968059 -0.212478
+  N0 -0.692 -0.475 -0.544
+  N1 -0.758 -0.408 -0.509
+  N2 -0.727 -0.445 -0.524
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.893392 -1.01557 -0.158131
+  V1 -0.901466 -1.0074 -0.153866
+  V2 -0.863744 -0.96535 -0.180606
+  N0 -0.522 -0.072 -0.850
+  N1 -0.522 -0.072 -0.850
+  N2 -0.522 -0.072 -0.850
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.901466 -1.0074 -0.153866
+  V1 -0.908091 -0.997615 -0.15063
+  V2 -0.883317 -0.968059 -0.212478
+  N0 -0.758 -0.408 -0.509
+  N1 -0.813 -0.328 -0.482
+  N2 -0.788 -0.370 -0.492
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+STri
+  V0 -0.901466 -1.0074 -0.153866
+  V1 -0.908091 -0.997615 -0.15063
+  V2 -0.863744 -0.96535 -0.180606
+  N0 -0.522 -0.072 -0.850
+  N1 -0.522 -0.072 -0.850
+  N2 -0.522 -0.072 -0.850
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 1 0 TexFunc 0
+
+FCylinder
+  Base -0.75283 -0.95 -0
+  Apex -0.571573 -0.959537 -0.110503
+  Rad 0.03
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.589666 -0.910267 -0.144434
+  V1 -0.584023 -0.903732 -0.135741
+  V2 -0.539586 -0.96122 -0.130003
+  N0 0.582 0.367 -0.725
+  N1 0.629 0.421 -0.654
+  N2 0.604 0.398 -0.691
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.589666 -0.910267 -0.144434
+  V1 -0.584023 -0.903732 -0.135741
+  V2 -0.571573 -0.959537 -0.110503
+  N0 0.853 -0.045 -0.520
+  N1 0.853 -0.045 -0.520
+  N2 0.853 -0.045 -0.520
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.584023 -0.903732 -0.135741
+  V1 -0.577901 -0.899341 -0.126079
+  V2 -0.539586 -0.96122 -0.130003
+  N0 0.629 0.421 -0.654
+  N1 0.679 0.457 -0.574
+  N2 0.653 0.443 -0.615
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.584023 -0.903732 -0.135741
+  V1 -0.577901 -0.899341 -0.126079
+  V2 -0.571573 -0.959537 -0.110503
+  N0 0.853 -0.045 -0.520
+  N1 0.853 -0.045 -0.520
+  N2 0.853 -0.045 -0.520
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.577901 -0.899341 -0.126079
+  V1 -0.571536 -0.897264 -0.115818
+  V2 -0.539586 -0.96122 -0.130003
+  N0 0.679 0.457 -0.574
+  N1 0.732 0.474 -0.490
+  N2 0.704 0.470 -0.532
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.577901 -0.899341 -0.126079
+  V1 -0.571536 -0.897264 -0.115818
+  V2 -0.571573 -0.959537 -0.110503
+  N0 0.853 -0.045 -0.520
+  N1 0.853 -0.045 -0.520
+  N2 0.853 -0.045 -0.520
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.571536 -0.897264 -0.115818
+  V1 -0.565173 -0.897579 -0.105353
+  V2 -0.539586 -0.96122 -0.130003
+  N0 0.732 0.474 -0.490
+  N1 0.784 0.472 -0.404
+  N2 0.757 0.477 -0.446
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.571536 -0.897264 -0.115818
+  V1 -0.565173 -0.897579 -0.105353
+  V2 -0.571573 -0.959537 -0.110503
+  N0 0.853 -0.045 -0.520
+  N1 0.853 -0.045 -0.520
+  N2 0.853 -0.045 -0.520
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.565173 -0.897579 -0.105353
+  V1 -0.559055 -0.900276 -0.0950853
+  V2 -0.539586 -0.96122 -0.130003
+  N0 0.784 0.472 -0.404
+  N1 0.834 0.449 -0.319
+  N2 0.809 0.465 -0.360
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.565173 -0.897579 -0.105353
+  V1 -0.559055 -0.900276 -0.0950853
+  V2 -0.571573 -0.959537 -0.110503
+  N0 0.853 -0.045 -0.520
+  N1 0.853 -0.045 -0.520
+  N2 0.853 -0.045 -0.520
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.559055 -0.900276 -0.0950853
+  V1 -0.553419 -0.90525 -0.0854105
+  V2 -0.539586 -0.96122 -0.130003
+  N0 0.834 0.449 -0.319
+  N1 0.881 0.408 -0.239
+  N2 0.858 0.433 -0.277
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.559055 -0.900276 -0.0950853
+  V1 -0.553419 -0.90525 -0.0854105
+  V2 -0.571573 -0.959537 -0.110503
+  N0 0.853 -0.045 -0.520
+  N1 0.853 -0.045 -0.520
+  N2 0.853 -0.045 -0.520
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.553419 -0.90525 -0.0854105
+  V1 -0.54848 -0.912311 -0.0767
+  V2 -0.539586 -0.96122 -0.130003
+  N0 0.881 0.408 -0.239
+  N1 0.922 0.350 -0.168
+  N2 0.902 0.383 -0.201
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.553419 -0.90525 -0.0854105
+  V1 -0.54848 -0.912311 -0.0767
+  V2 -0.571573 -0.959537 -0.110503
+  N0 0.853 -0.045 -0.520
+  N1 0.853 -0.045 -0.520
+  N2 0.853 -0.045 -0.520
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.54848 -0.912311 -0.0767
+  V1 -0.544428 -0.921186 -0.0692884
+  V2 -0.539586 -0.96122 -0.130003
+  N0 0.922 0.350 -0.168
+  N1 0.955 0.277 -0.107
+  N2 0.939 0.317 -0.134
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.54848 -0.912311 -0.0767
+  V1 -0.544428 -0.921186 -0.0692884
+  V2 -0.571573 -0.959537 -0.110503
+  N0 0.853 -0.045 -0.520
+  N1 0.853 -0.045 -0.520
+  N2 0.853 -0.045 -0.520
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.544428 -0.921186 -0.0692884
+  V1 -0.54142 -0.931535 -0.0634608
+  V2 -0.539586 -0.96122 -0.130003
+  N0 0.955 0.277 -0.107
+  N1 0.980 0.192 -0.059
+  N2 0.968 0.237 -0.079
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.544428 -0.921186 -0.0692884
+  V1 -0.54142 -0.931535 -0.0634608
+  V2 -0.571573 -0.959537 -0.110503
+  N0 0.853 -0.045 -0.520
+  N1 0.853 -0.045 -0.520
+  N2 0.853 -0.045 -0.520
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.54142 -0.931535 -0.0634608
+  V1 -0.539571 -0.94296 -0.0594409
+  V2 -0.539586 -0.96122 -0.130003
+  N0 0.980 0.192 -0.059
+  N1 0.995 0.098 -0.026
+  N2 0.988 0.147 -0.038
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.54142 -0.931535 -0.0634608
+  V1 -0.539571 -0.94296 -0.0594409
+  V2 -0.571573 -0.959537 -0.110503
+  N0 0.853 -0.045 -0.520
+  N1 0.853 -0.045 -0.520
+  N2 0.853 -0.045 -0.520
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.539571 -0.94296 -0.0594409
+  V1 -0.538951 -0.955023 -0.0573833
+  V2 -0.539586 -0.96122 -0.130003
+  N0 0.995 0.098 -0.026
+  N1 1.000 -0.001 -0.009
+  N2 0.999 0.049 -0.013
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.539571 -0.94296 -0.0594409
+  V1 -0.538951 -0.955023 -0.0573833
+  V2 -0.571573 -0.959537 -0.110503
+  N0 0.853 -0.045 -0.520
+  N1 0.853 -0.045 -0.520
+  N2 0.853 -0.045 -0.520
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.538951 -0.955023 -0.0573833
+  V1 -0.539585 -0.967258 -0.0573671
+  V2 -0.539586 -0.96122 -0.130003
+  N0 1.000 -0.001 -0.009
+  N1 0.995 -0.102 -0.008
+  N2 0.999 -0.052 -0.004
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.538951 -0.955023 -0.0573833
+  V1 -0.539585 -0.967258 -0.0573671
+  V2 -0.571573 -0.959537 -0.110503
+  N0 0.853 -0.045 -0.520
+  N1 0.853 -0.045 -0.520
+  N2 0.853 -0.045 -0.520
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.539585 -0.967258 -0.0573671
+  V1 -0.541448 -0.979197 -0.0593928
+  V2 -0.539586 -0.96122 -0.130003
+  N0 0.995 -0.102 -0.008
+  N1 0.979 -0.200 -0.025
+  N2 0.988 -0.152 -0.013
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.539585 -0.967258 -0.0573671
+  V1 -0.541448 -0.979197 -0.0593928
+  V2 -0.571573 -0.959537 -0.110503
+  N0 0.853 -0.045 -0.520
+  N1 0.853 -0.045 -0.520
+  N2 0.853 -0.045 -0.520
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.541448 -0.979197 -0.0593928
+  V1 -0.544469 -0.990381 -0.0633827
+  V2 -0.539586 -0.96122 -0.130003
+  N0 0.979 -0.200 -0.025
+  N1 0.955 -0.292 -0.058
+  N2 0.968 -0.248 -0.038
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.541448 -0.979197 -0.0593928
+  V1 -0.544469 -0.990381 -0.0633827
+  V2 -0.571573 -0.959537 -0.110503
+  N0 0.853 -0.045 -0.520
+  N1 0.853 -0.045 -0.520
+  N2 0.853 -0.045 -0.520
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.544469 -0.990381 -0.0633827
+  V1 -0.548531 -1.00038 -0.0691834
+  V2 -0.539586 -0.96122 -0.130003
+  N0 0.955 -0.292 -0.058
+  N1 0.921 -0.375 -0.106
+  N2 0.939 -0.336 -0.078
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.544469 -0.990381 -0.0633827
+  V1 -0.548531 -1.00038 -0.0691834
+  V2 -0.571573 -0.959537 -0.110503
+  N0 0.853 -0.045 -0.520
+  N1 0.853 -0.045 -0.520
+  N2 0.853 -0.045 -0.520
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.548531 -1.00038 -0.0691834
+  V1 -0.553479 -1.00881 -0.076572
+  V2 -0.539586 -0.96122 -0.130003
+  N0 0.921 -0.375 -0.106
+  N1 0.880 -0.444 -0.167
+  N2 0.901 -0.412 -0.133
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.548531 -1.00038 -0.0691834
+  V1 -0.553479 -1.00881 -0.076572
+  V2 -0.571573 -0.959537 -0.110503
+  N0 0.853 -0.045 -0.520
+  N1 0.853 -0.045 -0.520
+  N2 0.853 -0.045 -0.520
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.553479 -1.00881 -0.076572
+  V1 -0.559122 -1.01534 -0.0852645
+  V2 -0.539586 -0.96122 -0.130003
+  N0 0.880 -0.444 -0.167
+  N1 0.834 -0.498 -0.238
+  N2 0.857 -0.475 -0.200
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.553479 -1.00881 -0.076572
+  V1 -0.559122 -1.01534 -0.0852645
+  V2 -0.571573 -0.959537 -0.110503
+  N0 0.853 -0.045 -0.520
+  N1 0.853 -0.045 -0.520
+  N2 0.853 -0.045 -0.520
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.559122 -1.01534 -0.0852645
+  V1 -0.565244 -1.01973 -0.0949269
+  V2 -0.539586 -0.96122 -0.130003
+  N0 0.834 -0.498 -0.238
+  N1 0.784 -0.534 -0.318
+  N2 0.808 -0.520 -0.276
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.559122 -1.01534 -0.0852645
+  V1 -0.565244 -1.01973 -0.0949269
+  V2 -0.571573 -0.959537 -0.110503
+  N0 0.853 -0.045 -0.520
+  N1 0.853 -0.045 -0.520
+  N2 0.853 -0.045 -0.520
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.565244 -1.01973 -0.0949269
+  V1 -0.571609 -1.02181 -0.105188
+  V2 -0.539586 -0.96122 -0.130003
+  N0 0.784 -0.534 -0.318
+  N1 0.731 -0.551 -0.402
+  N2 0.757 -0.547 -0.359
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.565244 -1.01973 -0.0949269
+  V1 -0.571609 -1.02181 -0.105188
+  V2 -0.571573 -0.959537 -0.110503
+  N0 0.853 -0.045 -0.520
+  N1 0.853 -0.045 -0.520
+  N2 0.853 -0.045 -0.520
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.571609 -1.02181 -0.105188
+  V1 -0.577973 -1.02149 -0.115653
+  V2 -0.539586 -0.96122 -0.130003
+  N0 0.731 -0.551 -0.402
+  N1 0.679 -0.549 -0.488
+  N2 0.704 -0.554 -0.445
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.571609 -1.02181 -0.105188
+  V1 -0.577973 -1.02149 -0.115653
+  V2 -0.571573 -0.959537 -0.110503
+  N0 0.853 -0.045 -0.520
+  N1 0.853 -0.045 -0.520
+  N2 0.853 -0.045 -0.520
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.577973 -1.02149 -0.115653
+  V1 -0.58409 -1.0188 -0.12592
+  V2 -0.539586 -0.96122 -0.130003
+  N0 0.679 -0.549 -0.488
+  N1 0.628 -0.526 -0.573
+  N2 0.652 -0.542 -0.531
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.577973 -1.02149 -0.115653
+  V1 -0.58409 -1.0188 -0.12592
+  V2 -0.571573 -0.959537 -0.110503
+  N0 0.853 -0.045 -0.520
+  N1 0.853 -0.045 -0.520
+  N2 0.853 -0.045 -0.520
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.58409 -1.0188 -0.12592
+  V1 -0.589727 -1.01382 -0.135595
+  V2 -0.539586 -0.96122 -0.130003
+  N0 0.628 -0.526 -0.573
+  N1 0.582 -0.485 -0.652
+  N2 0.603 -0.510 -0.613
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.58409 -1.0188 -0.12592
+  V1 -0.589727 -1.01382 -0.135595
+  V2 -0.571573 -0.959537 -0.110503
+  N0 0.853 -0.045 -0.520
+  N1 0.853 -0.045 -0.520
+  N2 0.853 -0.045 -0.520
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.589727 -1.01382 -0.135595
+  V1 -0.594665 -1.00676 -0.144306
+  V2 -0.539586 -0.96122 -0.130003
+  N0 0.582 -0.485 -0.652
+  N1 0.541 -0.427 -0.724
+  N2 0.559 -0.460 -0.690
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.589727 -1.01382 -0.135595
+  V1 -0.594665 -1.00676 -0.144306
+  V2 -0.571573 -0.959537 -0.110503
+  N0 0.853 -0.045 -0.520
+  N1 0.853 -0.045 -0.520
+  N2 0.853 -0.045 -0.520
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.594665 -1.00676 -0.144306
+  V1 -0.598717 -0.997888 -0.151717
+  V2 -0.539586 -0.96122 -0.130003
+  N0 0.541 -0.427 -0.724
+  N1 0.508 -0.354 -0.785
+  N2 0.522 -0.394 -0.757
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.594665 -1.00676 -0.144306
+  V1 -0.598717 -0.997888 -0.151717
+  V2 -0.571573 -0.959537 -0.110503
+  N0 0.853 -0.045 -0.520
+  N1 0.853 -0.045 -0.520
+  N2 0.853 -0.045 -0.520
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.598717 -0.997888 -0.151717
+  V1 -0.601725 -0.987539 -0.157545
+  V2 -0.539586 -0.96122 -0.130003
+  N0 0.508 -0.354 -0.785
+  N1 0.483 -0.269 -0.833
+  N2 0.493 -0.314 -0.812
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.598717 -0.997888 -0.151717
+  V1 -0.601725 -0.987539 -0.157545
+  V2 -0.571573 -0.959537 -0.110503
+  N0 0.853 -0.045 -0.520
+  N1 0.853 -0.045 -0.520
+  N2 0.853 -0.045 -0.520
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.601725 -0.987539 -0.157545
+  V1 -0.603575 -0.976114 -0.161565
+  V2 -0.539586 -0.96122 -0.130003
+  N0 0.483 -0.269 -0.833
+  N1 0.468 -0.175 -0.866
+  N2 0.473 -0.223 -0.853
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.601725 -0.987539 -0.157545
+  V1 -0.603575 -0.976114 -0.161565
+  V2 -0.571573 -0.959537 -0.110503
+  N0 0.853 -0.045 -0.520
+  N1 0.853 -0.045 -0.520
+  N2 0.853 -0.045 -0.520
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.603575 -0.976114 -0.161565
+  V1 -0.604194 -0.964052 -0.163622
+  V2 -0.539586 -0.96122 -0.130003
+  N0 0.468 -0.175 -0.866
+  N1 0.463 -0.076 -0.883
+  N2 0.462 -0.126 -0.878
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.603575 -0.976114 -0.161565
+  V1 -0.604194 -0.964052 -0.163622
+  V2 -0.571573 -0.959537 -0.110503
+  N0 0.853 -0.045 -0.520
+  N1 0.853 -0.045 -0.520
+  N2 0.853 -0.045 -0.520
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.604194 -0.964052 -0.163622
+  V1 -0.60356 -0.951816 -0.163639
+  V2 -0.539586 -0.96122 -0.130003
+  N0 0.463 -0.076 -0.883
+  N1 0.468 0.025 -0.883
+  N2 0.462 -0.025 -0.886
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.604194 -0.964052 -0.163622
+  V1 -0.60356 -0.951816 -0.163639
+  V2 -0.571573 -0.959537 -0.110503
+  N0 0.853 -0.045 -0.520
+  N1 0.853 -0.045 -0.520
+  N2 0.853 -0.045 -0.520
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.60356 -0.951816 -0.163639
+  V1 -0.601697 -0.939877 -0.161613
+  V2 -0.539586 -0.96122 -0.130003
+  N0 0.468 0.025 -0.883
+  N1 0.483 0.123 -0.867
+  N2 0.473 0.075 -0.878
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.60356 -0.951816 -0.163639
+  V1 -0.601697 -0.939877 -0.161613
+  V2 -0.571573 -0.959537 -0.110503
+  N0 0.853 -0.045 -0.520
+  N1 0.853 -0.045 -0.520
+  N2 0.853 -0.045 -0.520
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.601697 -0.939877 -0.161613
+  V1 -0.598676 -0.928694 -0.157623
+  V2 -0.539586 -0.96122 -0.130003
+  N0 0.483 0.123 -0.867
+  N1 0.508 0.215 -0.834
+  N2 0.493 0.171 -0.853
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.601697 -0.939877 -0.161613
+  V1 -0.598676 -0.928694 -0.157623
+  V2 -0.571573 -0.959537 -0.110503
+  N0 0.853 -0.045 -0.520
+  N1 0.853 -0.045 -0.520
+  N2 0.853 -0.045 -0.520
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.598676 -0.928694 -0.157623
+  V1 -0.594614 -0.918695 -0.151822
+  V2 -0.539586 -0.96122 -0.130003
+  N0 0.508 0.215 -0.834
+  N1 0.542 0.298 -0.786
+  N2 0.522 0.259 -0.812
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.598676 -0.928694 -0.157623
+  V1 -0.594614 -0.918695 -0.151822
+  V2 -0.571573 -0.959537 -0.110503
+  N0 0.853 -0.045 -0.520
+  N1 0.853 -0.045 -0.520
+  N2 0.853 -0.045 -0.520
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.594614 -0.918695 -0.151822
+  V1 -0.589666 -0.910267 -0.144434
+  V2 -0.539586 -0.96122 -0.130003
+  N0 0.542 0.298 -0.786
+  N1 0.582 0.367 -0.725
+  N2 0.560 0.336 -0.758
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+STri
+  V0 -0.594614 -0.918695 -0.151822
+  V1 -0.589666 -0.910267 -0.144434
+  V2 -0.571573 -0.959537 -0.110503
+  N0 0.853 -0.045 -0.520
+  N1 0.853 -0.045 -0.520
+  N2 0.853 -0.045 -0.520
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+Sphere 
+  Center -0.75283 -0.95 -0 
+   Rad 0.03 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center -0.745913 -0.652914 -0.0243959 
+  Rad 0.002 
+Texture
+  Ambient 1 Diffuse 0 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+FCylinder
+  Base -0.745913 -0.652914 -0.0243959
+  Apex -0.721163 -0.684414 -0.0243959
+  Rad 0.002 
+Texture
+  Ambient 1 Diffuse 0 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+Sphere 
+  Center -0.721163 -0.684414 -0.0243959 
+  Rad 0.002 
+Texture
+  Ambient 1 Diffuse 0 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+Sphere 
+  Center -0.721163 -0.652914 -0.0243959 
+  Rad 0.002 
+Texture
+  Ambient 1 Diffuse 0 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+FCylinder
+  Base -0.721163 -0.652914 -0.0243959
+  Apex -0.745913 -0.684414 -0.0243959
+  Rad 0.002 
+Texture
+  Ambient 1 Diffuse 0 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+Sphere 
+  Center -0.745913 -0.684414 -0.0243959 
+  Rad 0.002 
+Texture
+  Ambient 1 Diffuse 0 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+Sphere 
+  Center -0.898064 -0.959472 -0.243819 
+  Rad 0.002 
+Texture
+  Ambient 1 Diffuse 0 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+FCylinder
+  Base -0.898064 -0.959472 -0.243819
+  Apex -0.884564 -0.990972 -0.243819
+  Rad 0.002 
+Texture
+  Ambient 1 Diffuse 0 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+Sphere 
+  Center -0.884564 -0.990972 -0.243819 
+  Rad 0.002 
+Texture
+  Ambient 1 Diffuse 0 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+Sphere 
+  Center -0.871064 -0.959472 -0.243819 
+  Rad 0.002 
+Texture
+  Ambient 1 Diffuse 0 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+FCylinder
+  Base -0.871064 -0.959472 -0.243819
+  Apex -0.884564 -0.990972 -0.243819
+  Rad 0.002 
+Texture
+  Ambient 1 Diffuse 0 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+Sphere 
+  Center -0.884564 -0.990972 -0.243819 
+  Rad 0.002 
+Texture
+  Ambient 1 Diffuse 0 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+FCylinder
+  Base -0.884564 -0.990972 -0.243819
+  Apex -0.889064 -0.999972 -0.243819
+  Rad 0.002 
+Texture
+  Ambient 1 Diffuse 0 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+Sphere 
+  Center -0.889064 -0.999972 -0.243819 
+  Rad 0.002 
+Texture
+  Ambient 1 Diffuse 0 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+FCylinder
+  Base -0.889064 -0.999972 -0.243819
+  Apex -0.893564 -1.00447 -0.243819
+  Rad 0.002 
+Texture
+  Ambient 1 Diffuse 0 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+Sphere 
+  Center -0.893564 -1.00447 -0.243819 
+  Rad 0.002 
+Texture
+  Ambient 1 Diffuse 0 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+FCylinder
+  Base -0.893564 -1.00447 -0.243819
+  Apex -0.898064 -1.00672 -0.243819
+  Rad 0.002 
+Texture
+  Ambient 1 Diffuse 0 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+Sphere 
+  Center -0.898064 -1.00672 -0.243819 
+  Rad 0.002 
+Texture
+  Ambient 1 Diffuse 0 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+FCylinder
+  Base -0.898064 -1.00672 -0.243819
+  Apex -0.900314 -1.00672 -0.243819
+  Rad 0.002 
+Texture
+  Ambient 1 Diffuse 0 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+Sphere 
+  Center -0.900314 -1.00672 -0.243819 
+  Rad 0.002 
+Texture
+  Ambient 1 Diffuse 0 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+Sphere 
+  Center -0.476633 -0.951625 -0.149179 
+  Rad 0.002 
+Texture
+  Ambient 1 Diffuse 0 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+FCylinder
+  Base -0.476633 -0.951625 -0.149179
+  Apex -0.501383 -0.983125 -0.149179
+  Rad 0.002 
+Texture
+  Ambient 1 Diffuse 0 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+Sphere 
+  Center -0.501383 -0.983125 -0.149179 
+  Rad 0.002 
+Texture
+  Ambient 1 Diffuse 0 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+Sphere 
+  Center -0.501383 -0.951625 -0.149179 
+  Rad 0.002 
+Texture
+  Ambient 1 Diffuse 0 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+FCylinder
+  Base -0.501383 -0.951625 -0.149179
+  Apex -0.476633 -0.951625 -0.149179
+  Rad 0.002 
+Texture
+  Ambient 1 Diffuse 0 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+Sphere 
+  Center -0.476633 -0.951625 -0.149179 
+  Rad 0.002 
+Texture
+  Ambient 1 Diffuse 0 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+Sphere 
+  Center -0.501383 -0.983125 -0.149179 
+  Rad 0.002 
+Texture
+  Ambient 1 Diffuse 0 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+FCylinder
+  Base -0.501383 -0.983125 -0.149179
+  Apex -0.476633 -0.983125 -0.149179
+  Rad 0.002 
+Texture
+  Ambient 1 Diffuse 0 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+Sphere 
+  Center -0.476633 -0.983125 -0.149179 
+  Rad 0.002 
+Texture
+  Ambient 1 Diffuse 0 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+# VMD: Done with axes.
+FCylinder
+  Base -0.270935 0.11196 1.30727
+  Apex -1.25635 -0.0244155 -0.297328
+  Rad 0.002 
+Texture
+  Ambient 1 Diffuse 0 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+FCylinder
+  Base -0.270935 0.11196 1.30727
+  Apex 1.33945 0.0272261 0.325509
+  Rad 0.002 
+Texture
+  Ambient 1 Diffuse 0 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+FCylinder
+  Base 0.354036 -0.10915 -1.27909
+  Apex -1.25635 -0.0244155 -0.297328
+  Rad 0.002 
+Texture
+  Ambient 1 Diffuse 0 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+FCylinder
+  Base 0.354036 -0.10915 -1.27909
+  Apex 1.33945 0.0272261 0.325509
+  Rad 0.002 
+Texture
+  Ambient 1 Diffuse 0 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+# MoleculeID: 0 ReprID: 0 Beginning VDW
+Sphere 
+  Center 0.0252183 -0.114618 -0.211871 
+   Rad 0.0943981 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 0.0833285 -0.0853153 -0.158058 
+   Rad 0.0943981 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 0.0848521 -0.131244 -0.0947867 
+   Rad 0.084403 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+Sphere 
+  Center 0.157688 -0.106117 -0.038882 
+   Rad 0.0999509 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.5 0.5 0.2 TexFunc 0
+
+Sphere 
+  Center 0.239717 -0.139016 -0.0763999 
+   Rad 0.0999509 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 1 0 TexFunc 0
+
+Sphere 
+  Center 0.148638 -0.143112 0.0480251 
+   Rad 0.084403 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+Sphere 
+  Center 0.0796309 -0.179275 0.0534927 
+   Rad 0.0943981 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 0.0696837 -0.207874 0.132331 
+   Rad 0.0943981 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 0.165905 0.0110088 -0.0272915 
+   Rad 0.0999509 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 1 0 TexFunc 0
+
+Sphere 
+  Center 0.0782019 0.019275 0.0219459 
+   Rad 0.0943981 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 0.0543617 0.117023 0.0308922 
+   Rad 0.0999509 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 1 0 TexFunc 0
+
+Sphere 
+  Center -0.0483364 0.096715 0.0860829 
+   Rad 0.0999509 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.5 0.5 0.2 TexFunc 0
+
+Sphere 
+  Center -0.0303378 0.0690711 0.176295 
+   Rad 0.0999509 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 1 0 TexFunc 0
+
+Sphere 
+  Center -0.104094 0.173628 0.0877197 
+   Rad 0.084403 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+Sphere 
+  Center -0.0604407 0.237152 0.100985 
+   Rad 0.0943981 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center -0.111295 0.302991 0.115251 
+   Rad 0.0943981 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center -0.094469 0.0263258 0.0426487 
+   Rad 0.084403 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+Sphere 
+  Center -0.118978 0.0519395 -0.0269936 
+   Rad 0.0943981 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center -0.151246 -0.012982 -0.0702606 
+   Rad 0.0943981 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 0.0396111 -0.172006 -0.229226 
+   Rad 0.0555283 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 1 1 TexFunc 0
+
+Sphere 
+  Center 0.0230059 -0.0785904 -0.261856 
+   Rad 0.0555283 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 1 1 TexFunc 0
+
+Sphere 
+  Center -0.0302615 -0.114909 -0.184962 
+   Rad 0.0555283 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 1 1 TexFunc 0
+
+Sphere 
+  Center 0.0674423 -0.0277115 -0.142744 
+   Rad 0.0555283 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 1 1 TexFunc 0
+
+Sphere 
+  Center 0.137789 -0.0848886 -0.187292 
+   Rad 0.0555283 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 1 1 TexFunc 0
+
+Sphere 
+  Center 0.0773583 -0.227537 0.014955 
+   Rad 0.0555283 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 1 1 TexFunc 0
+
+Sphere 
+  Center 0.0330285 -0.140369 0.0414997 
+   Rad 0.0555283 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 1 1 TexFunc 0
+
+Sphere 
+  Center 0.0154718 -0.236787 0.137309 
+   Rad 0.0555283 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 1 1 TexFunc 0
+
+Sphere 
+  Center 0.114826 -0.247505 0.146263 
+   Rad 0.0555283 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 1 1 TexFunc 0
+
+Sphere 
+  Center 0.0709848 -0.160838 0.172158 
+   Rad 0.0555283 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 1 1 TexFunc 0
+
+Sphere 
+  Center 0.0837462 -0.00599494 0.077856 
+   Rad 0.0555283 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 1 1 TexFunc 0
+
+Sphere 
+  Center 0.0340811 -0.00955662 -0.00992232 
+   Rad 0.0555283 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 1 1 TexFunc 0
+
+Sphere 
+  Center -0.0259864 0.250122 0.0514138 
+   Rad 0.0555283 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 1 1 TexFunc 0
+
+Sphere 
+  Center -0.0241379 0.23005 0.150574 
+   Rad 0.0555283 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 1 1 TexFunc 0
+
+Sphere 
+  Center -0.146403 0.292197 0.164843 
+   Rad 0.0555283 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 1 1 TexFunc 0
+
+Sphere 
+  Center -0.147741 0.312552 0.0663907 
+   Rad 0.0555283 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 1 1 TexFunc 0
+
+Sphere 
+  Center -0.0775907 0.353649 0.125267 
+   Rad 0.0555283 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 1 1 TexFunc 0
+
+Sphere 
+  Center -0.0724658 0.0754247 -0.060363 
+   Rad 0.0555283 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 1 1 TexFunc 0
+
+Sphere 
+  Center -0.163136 0.094525 -0.0200244 
+   Rad 0.0555283 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 1 1 TexFunc 0
+
+Sphere 
+  Center -0.10821 -0.0565265 -0.078027 
+   Rad 0.0555283 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 1 1 TexFunc 0
+
+Sphere 
+  Center -0.170421 0.00621595 -0.125581 
+   Rad 0.0555283 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 1 1 TexFunc 0
+
+Sphere 
+  Center -0.199021 -0.0370925 -0.0396559 
+   Rad 0.0555283 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 1 1 TexFunc 0
+
+End_Scene 
